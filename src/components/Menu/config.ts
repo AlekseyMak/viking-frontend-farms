@@ -12,11 +12,11 @@ const config: MenuEntry[] = [
     items: [
       {
         label: 'Exchange',
-        href: 'http://exchange.vikingswap.finance/',
+        href: '/exchange',
       },
       {
         label: 'Liquidity',
-        href: 'http://exchange.vikingswap.finance/#/pool',
+        href: '/exchange/#/pool',
       },
     ],
   },
